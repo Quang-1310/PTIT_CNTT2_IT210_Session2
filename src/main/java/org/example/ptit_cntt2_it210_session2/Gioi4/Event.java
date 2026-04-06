@@ -1,0 +1,37 @@
+package org.example.ptit_cntt2_it210_session2.Gioi4;
+
+public class Event {
+    private int id;
+    private String name;
+    private String eventDate;
+    private double price;
+    private int remainingTickets;
+
+    public Event(int id, String name, String eventDate, double price, int remainingTickets) {
+        this.id = id;
+        this.name = name;
+        this.eventDate = eventDate;
+        this.price = price;
+        this.remainingTickets = remainingTickets;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getEventDate() {
+        return eventDate;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public int getRemainingTickets() {
+        return remainingTickets;
+    }
+}
