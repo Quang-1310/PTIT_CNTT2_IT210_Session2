@@ -1,4 +1,4 @@
-package org.example.ptit_cntt2_it210_session2.Gioi5;
+package org.example.ptit_cntt2_it210_session2.XuatSac5;
 
 
 import java.util.Date;

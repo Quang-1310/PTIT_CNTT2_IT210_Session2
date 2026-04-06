@@ -1,4 +1,4 @@
-package org.example.ptit_cntt2_it210_session2.Gioi5;
+package org.example.ptit_cntt2_it210_session2.XuatSac5;
 
 import jakarta.servlet.http.HttpSession;
 import org.springframework.beans.factory.annotation.Autowired;
